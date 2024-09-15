@@ -1,4 +1,4 @@
-#Customer Segmentation Project
+# Customer Segmentation Project
 The Mall Customer Segmentation project! This project aims to analyze customer data from a mall and segment customers using machine learning techniques. By understanding different customer segments, malls and retailers can tailor their marketing strategies and services more effectively
 ## Project Overview
 **Objective**: To segment mall customers based on their annual Income and spending behavior.
